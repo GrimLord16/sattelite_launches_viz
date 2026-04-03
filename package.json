@@ -1,0 +1,14 @@
+{
+  "name": "65d57b9d6eca0e8d",
+  "main": "65d57b9d6eca0e8d@35.js",
+  "version": "35.0.0",
+  "homepage": "https://observablehq.com/d/65d57b9d6eca0e8d",
+  "author": {
+    "name": "Вадим Павлик",
+    "url": "https://observablehq.com/@ucu-pavlyk"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
